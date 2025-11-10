@@ -246,5 +246,5 @@ RFM Segment =
 ## Contact Information
 - **Name**: Ziad Mohamed Soliman
 - **Email**: ziad.mohamed17.1@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/ziadsoliman)
+- **LinkedIn**: [Ziad Soliman](https://linkedin.com/in/ziadsoliman)
 
