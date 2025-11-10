@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analytics Dashboard
+# AdventureWorks Sales Analytics Report
 
 A comsprehensive Power BI analytics Report for sales performance tracking, product analysis, and customer segmentation using the AdventureWorks data warehouse.
 
