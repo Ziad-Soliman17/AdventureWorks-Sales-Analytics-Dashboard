@@ -15,7 +15,7 @@ This project delivers an interactive Power BI report analyzing sales , products 
 - **Customer Segmentation** - RFM segmentation and Demoghraphics insights
 
 ## Data Extraction and Preparation
-Following tables were extracted using SQL queries from the AdventureWorksDW2019 database:
+The Following tables were extracted using SQL queries from the AdventureWorksDW2019 database:
 
 - Sales Fact Table
 ```SQL
