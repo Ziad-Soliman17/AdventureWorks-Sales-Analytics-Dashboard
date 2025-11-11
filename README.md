@@ -248,3 +248,5 @@ RFM Segment =
 - **Email**: ziad.mohamed17.1@gmail.com
 - **LinkedIn**: [Ziad Soliman](https://linkedin.com/in/ziadsoliman)
 
+## Resources
+- [AdventureWorksDW2019 Database](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
